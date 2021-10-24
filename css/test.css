@@ -1,0 +1,37 @@
+body{
+	background-color:  lightcoral;
+}
+
+h1{
+			font-size:  80px;
+			color:  deeppink; 
+		}
+		
+
+
+		h2 { font-size: 10px;
+			color:  darkgray;
+
+		}
+
+		.big{
+			font-size: 150px;
+		}
+		.small{
+			font-size: 10px;
+		}
+		.uppercase{
+			text-transform: uppercase;
+		}
+
+		h1.uppercase{
+			color: lavender;
+		}
+
+		h1 span{
+			color: darkgreen;
+		}
+
+		h2 span{
+			color: darkorange;
+		}
